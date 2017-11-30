@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: weixinRest
+Implementation-Version: 1.1.0
+Archiver-Version: Plexus Archiver
+Built-By: wangzhen
+Implementation-Vendor-Id: com.chuxin
+Spring-Boot-Version: 1.5.2.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.chuxin.Application
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://maven.apache.org
+
